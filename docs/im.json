@@ -5,7 +5,7 @@
     "page-probability": 0.7,
     "site-probability": 0.3,
     "blacklist": [{"url" : ""}],
-    "whitelist": [{ "url" : "^servicecanada.github.io\/"}]
+    "whitelist": [{ "url" : "^ricokola.github.io\/"}]
   },
   "surveys" : [
   {
@@ -14,8 +14,9 @@
     "title-fr" : "Entire Site Scope 1 (50%): AA test (fra)",
     "body-en" : "<p>Please take 5 minutes at the end of your visit today to participate in a research exercise to help improve our services.</p><p class='mrgn-bttm-0'>",
     "body-fr" : "<p>Veuillez prendre 5 minutes à la fin de votre visite aujourd’hui pour participer à un exercice de recherche pour aider à améliorer nos services.</p><p class='mrgn-bttm-0'>",
-    "link-en" : "https://eccx.optimalworkshop.com/questions/2esdzqcu-0-2",
-    "link-fr" : "https://eccx.optimalworkshop.com/questions/2esdzqcu-0-0-0",
+    "link-en" : "https://publishca1.stage.canada.adobecqms.net/en/surveys/gc-task-success-survey-eric.html?test=yes",
+    "link-fr" : "https://publishca1.stage.canada.adobecqms.net/en/surveys/gc-task-success-survey-eric.html?test=yes",
+    "start-on" : "2019-04-10T00:00:00",
     "start-on" : "2020-01-30T00:00:00",
     "end-on" : "2050-07-10T23:59:00",
     "type" : "Entire site",
@@ -28,7 +29,7 @@
     "close-fr" : "Fermer : Sondage de fin de visite (touche d&apos;échappement)",
     "name" : "SC - Grants and Contributions Call for Proposals",
     "survey-urls" : [
-      {"site" : "^servicecanada.github.io"}
+      {"site" : "^ricokola.github.io"}
     ]
   },
   {
@@ -37,8 +38,9 @@
     "title-fr" : "Entire Site Scope 2 (50%): AA test (fra)",
     "body-en" : "<p>Please take 5 minutes at the end of your visit today to participate in a research exercise to help improve our services.</p><p class='mrgn-bttm-0'>",
     "body-fr" : "<p>Veuillez prendre 5 minutes à la fin de votre visite aujourd’hui pour participer à un exercice de recherche pour aider à améliorer nos services.</p><p class='mrgn-bttm-0'>",
-    "link-en" : "https://eccx.optimalworkshop.com/questions/2esdzqcu-0-2",
-    "link-fr" : "https://eccx.optimalworkshop.com/questions/2esdzqcu-0-0-0",
+    "link-en" : "https://publishca1.stage.canada.adobecqms.net/en/surveys/gc-task-success-survey-eric.html?test=yes",
+    "link-fr" : "https://publishca1.stage.canada.adobecqms.net/en/surveys/gc-task-success-survey-eric.html?test=yes",
+    "start-on" : "2019-04-10T00:00:00",
     "start-on" : "2020-01-30T00:00:00",
     "end-on" : "2050-07-10T23:59:00",
     "type" : "Entire site",
@@ -51,7 +53,7 @@
     "close-fr" : "Fermer : Sondage de fin de visite (touche d&apos;échappement)",
     "name" : "SC - Grants and Contributions Call for Proposals",
     "survey-urls" : [
-      {"site" : "^servicecanada.github.io"}
+      {"site" : "^ricokola.github.io"}
     ]
   },
   {
@@ -60,8 +62,9 @@
     "title-fr" : "Page(FolderY) Scope: AA test (fra)",
     "body-en" : "<p>Please take a few moments to let us know about today’s experience with <strong> My Service Canada Account (MSCA)</strong> so we can serve you better.</p><p class='mrgn-bttm-0'>Your participation is voluntary and your responses are confidential and anonymous. </p>",
     "body-fr" : "<p>Merci de prendre quelques minutes pour nous faire part de l’expérience que vous avez eue aujourd’hui relativement à <strong> Mon dossier Service Canada (MDSC)</strong>, afin que nous puissions mieux vous servir</p><p class='mrgn-bttm-0'>Votre participation est volontaire, et vos réponses sont confidentielles et anonymes.</p>",
-    "link-en" : "http://www1.canada.ca/en/contact/sc_account.html?referrer=logout",
-    "link-fr" : "http://www1.canada.ca/fr/contact/mon_dossier_sc.html?referrer=logout",
+    "link-en" : "https://publishca1.stage.canada.adobecqms.net/en/surveys/gc-task-success-survey-eric.html?test=yes",
+    "link-fr" : "https://publishca1.stage.canada.adobecqms.net/en/surveys/gc-task-success-survey-eric.html?test=yes",
+    "start-on" : "2019-04-10T00:00:00",
     "start-on" : "2019-04-10T00:00:00",
     "end-on" : "2050-07-20T23:59:00",
     "type" : "Page",
@@ -83,8 +86,8 @@
     "title-fr" : "Sondage du site Web",
     "body-en" : "<p>Please take a few minutes at the end of your visit today to anonymously tell us about your experience with the website.</p><p class='mrgn-bttm-0'>Choosing “Yes, after my visit” will open a new window that you can return to once you complete your visit on the website. </p>",
     "body-fr" : "<p>Veuillez prendre quelques minutes à la fin de votre visite aujourd'hui pour nous faire part anonymement de votre expérience sur le site Web.</p><p class='mrgn-bttm-0'>En choisissant “Oui, après ma visite” une nouvelle fenêtre s'ouvrira. Vous pourrez la remplir une fois votre visite sur le site est terminée.</p>",
-    "link-en" : "https://www.canada.ca/en.html",
-    "link-fr" : "https://www.canada.ca/fr.html",
+    "link-en" : "https://publishca1.stage.canada.adobecqms.net/en/surveys/gc-task-success-survey-eric.html?test=yes",
+    "link-fr" : "https://publishca1.stage.canada.adobecqms.net/en/surveys/gc-task-success-survey-eric.html?test=yes",
     "start-on" : "2019-04-10T00:00:00",
     "end-on" : "2050-07-20T23:59:00",
     "type" : "Page",
@@ -108,8 +111,9 @@
     "title-fr" : "Page(url-X2) Scope 50%: AA test (fra)",
     "body-en" : "<p>Please take a few moments to let us know about today’s experience with <strong> My Service Canada Account (MSCA)</strong> so we can serve you better. When selecting ‘Yes’, you can minimize the survey and fill it out after logging out of MSCA.</p><p class='mrgn-bttm-0'>Your participation is voluntary and your responses are confidential and anonymous. </p>",
     "body-fr" : "<p>Merci de prendre quelques minutes pour nous faire part de l’expérience que vous avez eue aujourd’hui relativement à <strong> Mon dossier Service Canada (MDSC) </strong>, afin que nous puissions mieux vous servir. Lorsque vous sélectionnez &apos;Oui&apos;, vous pouvez minimiser le sondage et le compléter après vous être déconnecté de MDSC.</p><p class='mrgn-bttm-0'>Votre participation est volontaire, et vos réponses sont confidentielles et anonymes.</p>",
-    "link-en" : "http://www1.canada.ca/en/contact/sc_account.html?referrer=login",
-    "link-fr" : "http://www1.canada.ca/fr/contact/mon_dossier_sc.html?referrer=login",
+    "link-en" : "https://publishca1.stage.canada.adobecqms.net/en/surveys/gc-task-success-survey-eric.html?test=yes",
+    "link-fr" : "https://publishca1.stage.canada.adobecqms.net/en/surveys/gc-task-success-survey-eric.html?test=yes",
+    "start-on" : "2019-04-10T00:00:00",
     "start-on" : "2018-07-12T00:00:00",
     "end-on" : "2050-07-20T23:59:00",
     "type" : "Page",
@@ -136,8 +140,9 @@
     "title-fr" : "Page(url-X3) Scope 50%: AA test (fra)",
     "body-en" : "<p>Please take a few moments to let us know about today’s experience with <strong> My Service Canada Account (MSCA)</strong> so we can serve you better. When selecting ‘Yes’, you can minimize the survey and fill it out after logging out of MSCA.</p><p class='mrgn-bttm-0'>Your participation is voluntary and your responses are confidential and anonymous. </p>",
     "body-fr" : "<p>Merci de prendre quelques minutes pour nous faire part de l’expérience que vous avez eue aujourd’hui relativement à <strong> Mon dossier Service Canada (MDSC) </strong>, afin que nous puissions mieux vous servir. Lorsque vous sélectionnez &apos;Oui&apos;, vous pouvez minimiser le sondage et le compléter après vous être déconnecté de MDSC.</p><p class='mrgn-bttm-0'>Votre participation est volontaire, et vos réponses sont confidentielles et anonymes.</p>",
-    "link-en" : "http://www1.canada.ca/en/contact/sc_account.html?referrer=login",
-    "link-fr" : "http://www1.canada.ca/fr/contact/mon_dossier_sc.html?referrer=login",
+    "link-en" : "https://publishca1.stage.canada.adobecqms.net/en/surveys/gc-task-success-survey-eric.html?test=yes",
+    "link-fr" : "https://publishca1.stage.canada.adobecqms.net/en/surveys/gc-task-success-survey-eric.html?test=yes",
+    "start-on" : "2019-04-10T00:00:00",
     "start-on" : "2018-07-12T00:00:00",
     "end-on" : "2050-07-20T23:59:00",
     "type" : "Page",
@@ -162,8 +167,9 @@
     "title-fr" : "Page(url-X3) Scope 2 50%: AA test (fra)",
     "body-en" : "<p>Please take a few moments to let us know about today’s experience with <strong> My Service Canada Account (MSCA)</strong> so we can serve you better. When selecting ‘Yes’, you can minimize the survey and fill it out after logging out of MSCA.</p><p class='mrgn-bttm-0'>Your participation is voluntary and your responses are confidential and anonymous. </p>",
     "body-fr" : "<p>Merci de prendre quelques minutes pour nous faire part de l’expérience que vous avez eue aujourd’hui relativement à <strong> Mon dossier Service Canada (MDSC) </strong>, afin que nous puissions mieux vous servir. Lorsque vous sélectionnez &apos;Oui&apos;, vous pouvez minimiser le sondage et le compléter après vous être déconnecté de MDSC.</p><p class='mrgn-bttm-0'>Votre participation est volontaire, et vos réponses sont confidentielles et anonymes.</p>",
-    "link-en" : "http://www1.canada.ca/en/contact/sc_account.html?referrer=login",
-    "link-fr" : "http://www1.canada.ca/fr/contact/mon_dossier_sc.html?referrer=login",
+    "link-en" : "https://publishca1.stage.canada.adobecqms.net/en/surveys/gc-task-success-survey-eric.html?test=yes",
+    "link-fr" : "https://publishca1.stage.canada.adobecqms.net/en/surveys/gc-task-success-survey-eric.html?test=yes",
+    "start-on" : "2019-04-10T00:00:00",
     "start-on" : "2018-07-12T00:00:00",
     "end-on" : "2050-07-20T23:59:00",
     "type" : "Page",
